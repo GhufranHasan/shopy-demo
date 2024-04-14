@@ -23,6 +23,7 @@ nav ul {
 .AppWrapper {
   margin-left: 60px;
   justify-content: center;
+  height: auto;
 }
 
 .mainSection {
@@ -51,6 +52,7 @@ nav ul {
 
 .secondHeroText {
   display: flex;
+  gap: 20px;
 
 }
 
